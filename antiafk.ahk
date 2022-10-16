@@ -1,18 +1,17 @@
-MsgBox Created by : reynor.xD 
-MsgBox  For all HGB workers! :3
+MsgBox Made by Reynor! Improved by RetroResources on GitHub.
 
-MsgBox, 4,, Would you like to know how it works? 
+MsgBox, 4,, Would you like to know the features of Anti-AFK and how to use the hotkeys? 
 IfMsgBox Yes
-MsgBox, ESC = To Exit The Program`nF1 = To Wave`nF2 = To Thumbs Up`nF3 = To Blow Kiss`nF4 = To Idle`nF5 = Spam Left Click`nF6 = Reload Room (In Home Room)`nF7 = Insert a Auto Message `nF8 = Activate Auto Message`nNUMPAD 0-9 = Number Signs(0-9)
+MsgBox, ESC = To Stop/Exit The Program`nF1 = To Wave`nF2 = To Thumbs Up`nF3 = To Blow Kiss`nF4 = To Idle`nF5 = Spam Left Click`nF6 = Reload Room (In Home Room)`nF7 = Insert a Auto Message `nF8 = Activate Auto Message`nNUMPAD 0-9 = Number Signs(0-9)
 return
 
 
 
 
 Esc::
-MsgBox Exiting............ :3
+MsgBox Goodbye!
 
-MsgBox Thank you for using this!`n-reynor.xD
+MsgBox Thank you for using Anti-AFK!
 Exitapp
 
 
